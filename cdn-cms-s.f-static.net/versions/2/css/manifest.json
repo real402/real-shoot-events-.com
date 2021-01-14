@@ -1,0 +1,9 @@
+{
+	"name": "Real Shoot Events",
+	"short_name": "Real Shoot Events",
+	"theme_color": "#00adb5",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://5fc9e8e419020.site123.me/",
+	"start_url": "https://5fc9e8e419020.site123.me/",
+	"icons": [{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=192&height=192&resizeType=pwaIcon&w=&orderScreen=&websiteID=4627216&tranW=&v=r7240_23711561","sizes":"192x192","type":"image/png"},{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=512&height=512&resizeType=pwaIcon&w=&orderScreen=&websiteID=4627216&tranW=&v=r7240_23711561","sizes":"512x512","type":"image/png"}]}
